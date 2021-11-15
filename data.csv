@@ -1,0 +1,48 @@
+is_win,time,score,algorithm
+False,0.09251713752746582,1,alpha-beta pruning
+False,0.06995749473571777,1,expectimax
+False,0.06995391845703125,1,expectimax
+False,0.06995725631713867,1,alpha-beta pruning
+False,0.06995677947998047,1,expectimax
+False,0.06795668601989746,1,expectimax
+False,0.06895589828491211,1,expectimax
+False,0.07195591926574707,1,expectimax
+False,0.07195520401000977,1,expectimax
+False,0.09094357490539551,1,alpha-beta pruning
+False,0.09094381332397461,1,alpha-beta pruning
+False,0.14690685272216797,1,alpha-beta pruning
+False,0.15390324592590332,1,alpha-beta pruning
+False,0.15990114212036133,1,expectimax
+False,0.14590907096862793,1,expectimax
+False,0.14791107177734375,1,alpha-beta pruning
+False,0.14491009712219238,1,alpha-beta pruning
+False,0.14590978622436523,1,alpha-beta pruning
+False,0.1469118595123291,1,expectimax
+False,0.09194421768188477,1,expectimax
+False,0.11392974853515625,1,alpha-beta pruning
+False,0.1668987274169922,1,alpha-beta pruning
+False,0.16689610481262207,1,alpha-beta pruning
+False,0.16589617729187012,2,alpha-beta pruning
+False,0.16589760780334473,2,alpha-beta pruning
+False,0.1668994426727295,2,alpha-beta pruning
+False,0.16589975357055664,2,alpha-beta pruning
+False,0.16689658164978027,2,alpha-beta pruning
+False,0.16589736938476562,2,alpha-beta pruning
+False,0.16788506507873535,2,alpha-beta pruning
+False,0.16789770126342773,2,expectimax
+False,0.15190696716308594,2,expectimax
+False,0.1269221305847168,2,expectimax
+False,0.12891888618469238,2,expectimax
+False,0.1289205551147461,2,expectimax
+False,0.12891864776611328,2,alpha-beta pruning
+False,0.128920316696167,2,alpha-beta pruning
+False,0.13391947746276855,2,alpha-beta pruning
+False,0.07995152473449707,2,alpha-beta pruning
+False,0.07895016670227051,2,alpha-beta pruning
+False,0.07895016670227051,2,alpha-beta pruning
+False,0.046970367431640625,2,expectimax
+False,0.04797053337097168,2,expectimax
+False,0.04697132110595703,2,expectimax
+False,0.046971797943115234,2,alpha-beta pruning
+False,0.06895732879638672,2,alpha-beta pruning
+
